@@ -1,7 +1,8 @@
 # rest_api
 
 Features
-API REST (CryptoWatch)
+
+API REST 
 Http Handler
 Jsonplaceholder
 POST Request
